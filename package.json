@@ -1,0 +1,26 @@
+{
+  "name": "structure-algorithm",
+  "version": "1.0.0",
+  "description": "数据结构与算法学习笔记",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C-old-M-oon/Structure-Algorithm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/C-old-M-oon/Structure-Algorithm/issues"
+  },
+  "homepage": "https://github.com/C-old-M-oon/Structure-Algorithm#readme"
+}
